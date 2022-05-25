@@ -75,19 +75,19 @@ Label=1
 
 新闻脉络关系评测组委会：cstory_ccl@163.com 
 
-师凯杰  skj19@mails.tsinghua.edu.cn
+师凯杰：             skj19@mails.tsinghua.edu.cn
 
-柳孟阳  619090934@qq.com
+柳孟阳：             619090934@qq.com
 
-侯磊    houlei@mail.tsinghua.edu.cn
+侯磊：               houlei@mail.tsinghua.edu.cn
 
-肖镜辉  xiaojinghui4@huawei.com
+肖镜辉：             xiaojinghui4@huawei.com
 
-吴敬桐  wujingtong@huawei.com
+吴敬桐：             wujingtong@huawei.com
 
-雍定钰  yongdingyu@huawei.com
+雍定钰：             yongdingyu@huawei.com
 
-李涓子  lijuanzi@tsinghua.edu.cn
+李涓子：             lijuanzi@tsinghua.edu.cn
 
-刘群    qun.liu@huawei.com
+刘群：              qun.liu@huawei.com
 
