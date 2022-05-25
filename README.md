@@ -65,7 +65,7 @@ Label=1
 
 发送报名表到[cstory_ccl@163.com](cstory_ccl@163.com)
 
-评测使用的数据集以CC BY-SA 4.0协议分发，报名参赛即视为接受此协议。
+评测使用的数据集以[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)协议分发，报名参赛即视为接受此协议。
 
 参赛选手需确保注册时提交信息准确有效，所有的比赛资格及奖金支付均以提交信息为准；
 
