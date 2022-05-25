@@ -1,2 +1,3 @@
-# CCL2022_Storyline_Relationship_Classification
-CCL2022 新闻脉络关系识别
+# CCL2022 新闻脉络关系检测技术评测
+
+
