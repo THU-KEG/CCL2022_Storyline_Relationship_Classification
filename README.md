@@ -73,21 +73,29 @@ Label=1
 
 ## 八、新闻脉络关系评测组织方
 
+任务组织者：
+
+师凯杰（清华大学知识工程实验室）
+
+侯磊  （清华大学知识工程实验室）
+
+肖镜辉（华为诺亚方舟实验室）
+
+吴敬桐（华为终端云服务部）
+
+雍定钰（华为终端云服务部）
+
+李涓子（清华大学知识工程实验室）
+
+刘群  （华为诺亚方舟实验室）
+
+任务联系人：
+
 新闻脉络关系评测组委会：cstory_ccl@163.com 
 
 师凯杰：             skj19@mails.tsinghua.edu.cn
 
 柳孟阳：             619090934@qq.com
 
-侯磊：               houlei@mail.tsinghua.edu.cn
 
-肖镜辉：             xiaojinghui4@huawei.com
-
-吴敬桐：             wujingtong@huawei.com
-
-雍定钰：             yongdingyu@huawei.com
-
-李涓子：             lijuanzi@tsinghua.edu.cn
-
-刘群：              qun.liu@huawei.com
 
