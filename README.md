@@ -185,9 +185,11 @@ F1=(2*precision*recall)/(precision+recall)
 
 新闻脉络关系评测组委会：cstory_ccl@163.com 
 
+柳孟阳：             619090934@qq.com
+
 师凯杰：             skj19@mails.tsinghua.edu.cn
 
-柳孟阳：             619090934@qq.com
+
 
 
 
