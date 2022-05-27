@@ -73,7 +73,7 @@ Label=1
 
 召回率（recall）=检测出来的新闻脉络关系和标注相同的数量/标注的新闻脉络关系总数
 
-F1=(2*precision*recall)/(precision+recall)
+F1=(2 * precision * recall)/(precision+recall)
 
 最终的队伍成绩排名根据测试集F1的排名确定。测试集F1的值越高，队伍排名越靠前。
 
