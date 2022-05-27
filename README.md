@@ -119,7 +119,7 @@ F1=(2 * precision * recall)/(precision+recall)
 
 ## 六、结果提交方式
 
-验证集发布后，允许参赛队伍多次向[cstory_ccl@163.com](cstory_ccl@163.com)提交结果，将所有预测结果写入一个文件，文件命名为“result.txt”，该结果文件提交格式如下:
+测试集发布后，允许参赛队伍多次向[cstory_ccl@163.com](cstory_ccl@163.com)提交结果，将所有预测结果写入一个文件，文件命名为“result.txt”，该结果文件提交格式如下:
 
 0
 
