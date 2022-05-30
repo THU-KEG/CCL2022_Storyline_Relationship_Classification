@@ -80,11 +80,10 @@ F1=(2 * precision * recall)/(precision+recall)
 
 ## 四、报名方式及规则
 
-**CCL2022 新闻脉络关系检测任务评测报名表**
+**填写CCL2022 新闻脉络关系检测任务评测报名表**
 https://docs.qq.com/form/page/DWlliVnBlR3dtbEJI
 
 评测使用的数据集以[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)协议分发，报名参赛即视为接受此协议。
-
 
 
 每支队伍需指定一名队长，队伍名称不超过15个字符，队伍名的设定不得违反中国法律法规或公序良俗词汇，否则组织者有可能会解散队伍；
