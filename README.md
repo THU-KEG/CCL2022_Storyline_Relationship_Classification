@@ -80,7 +80,7 @@ F1=(2 * precision * recall)/(precision+recall)
 
 ## 四、报名方式及规则
 
-【腾讯文档】CCL2022 新闻脉络关系检测任务评测报名表
+**CCL2022 新闻脉络关系检测任务评测报名表**
 https://docs.qq.com/form/page/DWlliVnBlR3dtbEJI
 
 评测使用的数据集以[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)协议分发，报名参赛即视为接受此协议。
