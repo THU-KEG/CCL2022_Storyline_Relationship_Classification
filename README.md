@@ -63,7 +63,7 @@ Label=1
 测试集共有4405条数据，正负样本比为1:1.82
 
 ### 3.数据下载
-https://cloud.tsinghua.edu.cn/d/63ac7b7402d34290a76e/
+训练集和验证集：https://cloud.tsinghua.edu.cn/d/63ac7b7402d34290a76e/
 
 ## 三、评价指标
 
