@@ -113,7 +113,7 @@ https://docs.qq.com/form/page/DWlliVnBlR3dtbEJI
 
 -	提交测试结果和评测论文：9月15日
 
-- 宣布比赛结果 9月31日
+- 宣布比赛结果 10月1日
 
 -	CCL会议日期(评测报告及颁奖)：10月14日—16日
 
